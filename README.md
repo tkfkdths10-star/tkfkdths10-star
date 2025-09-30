@@ -1,16 +1,13 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&text=tkfkdths10)
 
-<!--
-**tkfkdths10-star/tkfkdths10-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email 주소: tkfkdths10@naver.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkfkdths10-star&show_icons=true&theme=radical)
+
+
+
+
